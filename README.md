@@ -8,7 +8,7 @@ No. Control: 19211605
 
 ## 🤓 10 problemas 
 
-Dentro de la carpeta Ejercicio++ se encuentran el codigo fuente de los 10 problemas seleccionado del cap 1, pag. 66-76. 🚀
+Dentro de la carpeta EjerciciosC++ se encuentran el codigo fuente de los 10 problemas seleccionado del cap 1, pag. 66-76. 🚀
 
 
 Todos los problemas estan relacionados a la probabilidad y estadistica. 🔢

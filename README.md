@@ -6,9 +6,10 @@ Nombre: José Fernando Cano Pacheco
 
 No. Control: 19211605
 
-## 🤓 10 problemas 
+## 🤩 10 problemas 
 
-Dentro de la carpeta EjerciciosC++ se encuentran el codigo fuente de los 10 problemas seleccionado del cap 1, pag. 66-76. 🚀
+Dentro de la carpeta EjerciciosC++ se encuentran el codigo fuente de 16 programas seleccionado del cap 1, problemas 66-76.
+Aunque 3 de estos tuvieron que ser sustituidos por 9 programas del cap 5 debido a que su explicación era bastante ambigua y difícil de entender 🤷‍♂️
 
 
-Todos los problemas estan relacionados a la probabilidad y estadistica. 🔢
+Los Ejercicios del 1-7 son del cápitulo 1 y los restantes del cápitulo 5 relacionados a la probabilidad y estadística. 🔢

@@ -6,7 +6,7 @@ Nombre: José Fernando Cano Pacheco
 
 No. Control: 19211605
 
-## 🤩 10 problemas 
+## 🤩 16 problemas 
 
 Dentro de la carpeta EjerciciosC++ se encuentran el codigo fuente de 16 programas seleccionado del cápitulo 1 los problemas 66-76.
 Aunque 3 de estos tuvieron que ser sustituidos por 9 programas del cap 5 debido a que su explicación era bastante ambigua y difícil de entender 🤷‍♂️
